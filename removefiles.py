@@ -1,14 +1,3 @@
-# import os
-# import shutil
-# import time
-
-# def setup():
-#     path = 'C:\Users\SKV Koushik\OneDrive\Documents'
-#     sec = time.time() - (30*24*3600)
-#     if os.path.exists(path):
-#         os.listdir(path)
-#         for folders, files in os.walk(path):
-#             if sec
 
 # importing the required modules
 import os
